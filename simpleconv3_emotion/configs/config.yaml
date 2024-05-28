@@ -1,0 +1,26 @@
+# 数据集路径
+data:
+  train: data/train/
+  val: data/val/
+  test: data/test/
+
+# 模型配置
+model:
+  name: MyModel
+  num_classes: 10
+
+# 训练配置
+train:
+  batch_size: 64
+  epochs: 50
+  learning_rate: 0.001
+  momentum: 0.9
+  weight_decay: 0.0001
+
+# 日志和检查点配置
+log:
+  log_dir: logs/
+  checkpoint_dir: checkpoints/
+
+device: cpu
+seed: 1234

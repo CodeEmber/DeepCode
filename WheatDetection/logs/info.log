@@ -1,0 +1,12 @@
+[INFO][2024-04-16 13:59:20,125][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #0 - Loss: 6.102442678455204 
+[INFO][2024-04-16 14:01:07,700][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #5 - Loss: 1.629787488209925 
+[INFO][2024-04-16 14:02:47,475][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #10 - Loss: 1.3239198178213287 
+[INFO][2024-04-16 14:04:26,975][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #15 - Loss: 1.121336894996617 
+[INFO][2024-04-16 14:06:06,896][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #20 - Loss: 0.9317605345342865 
+[INFO][2024-04-16 14:07:49,080][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #25 - Loss: 0.9419136028552045 
+[INFO][2024-04-16 14:09:29,460][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #30 - Loss: 1.183229360469027 
+[INFO][2024-04-16 14:11:12,718][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #35 - Loss: 0.923531317684578 
+[INFO][2024-04-16 14:12:54,605][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #40 - Loss: 0.9304289410746869 
+[INFO][2024-04-16 14:14:36,195][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #45 - Loss: 0.8945901641083662 
+[INFO][2024-04-16 14:16:17,831][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #50 - Loss: 1.5244249096269202 
+[INFO][2024-04-16 14:18:03,847][test][WheatDetection/train.py:51:<module>] Iteration/train/itr #55 - Loss: 1.2710056933071503 
